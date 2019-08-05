@@ -7,6 +7,6 @@
     "start": "node script.js"
   },
   "dependencies":{
-    "discord.js": "11.5.1"
+    "discord.js": "11.1.0"
   }
 }
