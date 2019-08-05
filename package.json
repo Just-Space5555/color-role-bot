@@ -1,0 +1,13 @@
+{
+  "name": "Color Role Bot",
+  "description": "Make yourself your very own color with this bot! Just write '+color' and then the color. Supports original discord color (e. g. red), hex and rgb"
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts":{
+    "start": "node script.js"
+  }
+  "dependencies":{
+    "discord.js": "11.5.1",
+    "request": "2.81.0"
+  }
+}
